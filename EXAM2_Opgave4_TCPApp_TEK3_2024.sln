@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EXAM2_Opgave4_TCPApp_TEK3_2024", "EXAM2_Opgave4_TCPApp_TEK3_2024.csproj", "{D623BFF6-9544-4AAD-8DAF-EC5E15F7541F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D623BFF6-9544-4AAD-8DAF-EC5E15F7541F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D623BFF6-9544-4AAD-8DAF-EC5E15F7541F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D623BFF6-9544-4AAD-8DAF-EC5E15F7541F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D623BFF6-9544-4AAD-8DAF-EC5E15F7541F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D77CAD96-FD2B-4A09-84FD-1E2698BF63D9}
+	EndGlobalSection
+EndGlobal
